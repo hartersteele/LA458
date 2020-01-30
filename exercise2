@@ -3,6 +3,13 @@
 <head>
 <title>LA 458 Exercise 2 Slippy map</title>
 </head>
+<style>
+        H1 {
+            font-size: 12px;
+            color: blue;
+        }
+    </style>
+    
 <body>
 
 <h1>Waukee, Iowa</h1>
